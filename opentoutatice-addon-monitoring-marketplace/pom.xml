@@ -7,7 +7,7 @@
 	</parent>
 
 	<artifactId>opentoutatice-monitoring-marketplace</artifactId>
-	<version>1.0-RC01</version>
+	<version>1.0-RC01-SNAPSHOT</version>
 	<packaging>zip</packaging>
 	<name>Marketplace package - upgraded monitoring service</name>
 

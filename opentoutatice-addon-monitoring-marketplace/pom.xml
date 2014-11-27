@@ -7,7 +7,7 @@
 	</parent>
 
 	<artifactId>opentoutatice-monitoring-marketplace</artifactId>
-	<version>1.0-RC2-SNAPSHOT</version>
+	<version>1.0</version>
 	<packaging>zip</packaging>
 	<name>Marketplace package - upgraded monitoring service</name>
 
@@ -37,9 +37,9 @@
 	</build>
 	
 	<scm>
-		<developerConnection>scm:svn:http://projet.toutatice.fr/repos/toutatice-ecm/opentoutatice-addons/opentoutatice-monitoring/trunk</developerConnection>
-	  <connection>scm:git:git://github.com/nuxeo/nuxeo-distribution.git/opentoutatice-monitoring-marketplace</connection>
-    <url>https://github.com/nuxeo/nuxeo-distribution/opentoutatice-monitoring-marketplace</url>
+		<developerConnection>scm:svn:http://projet.toutatice.fr/repos/toutatice-ecm/opentoutatice-addons/opentoutatice-monitoring/tags/1.0/trunk</developerConnection>
+	  <connection>scm:svn:http://projet.toutatice.fr/repos/toutatice-ecm/opentoutatice-addons/opentoutatice-monitoring/tags/1.0/opentoutatice-monitoring-marketplace</connection>
+    <url>scm:svn:http://projet.toutatice.fr/repos/toutatice-ecm/opentoutatice-addons/opentoutatice-monitoring/tags/1.0/opentoutatice-monitoring-marketplace</url>
   </scm>
 
 	<distributionManagement>
